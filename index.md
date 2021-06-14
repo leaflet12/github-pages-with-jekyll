@@ -1,5 +1,4 @@
 ---
 title: "Erik Wei"
 ---
-
-Temporary
+About the amazing person known as Erik Wei
